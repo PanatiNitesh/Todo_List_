@@ -1,5 +1,3 @@
-// App.jsx
-
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import CreateAccount from './components/CreateAccount';
 import Login from './components/Login';
