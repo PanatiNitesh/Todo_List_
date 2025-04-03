@@ -76,7 +76,7 @@ app.post("/add", async (req, res) => {
 });
 
 const PORT = process.env.PORT || 3001;
-
+// port running 
 app.listen(PORT, () => {
   console.log("Server is running on port ${PORT}");
 });
