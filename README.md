@@ -1,7 +1,7 @@
-# Todo Web App
+
 
 ## Overview
-The **Todo Web App** is a simple yet efficient task management application that allows users to create, edit, delete, and manage their to-do lists. The app features a user authentication system with login and registration functionality and utilizes **MongoDB** for data storage.
+The **Todo Web ** is a simple yet efficient task management application that allows users to create, edit, delete, and manage their to-do lists. The app features a user authentication system with login and registration functionality and utilizes **MongoDB** for data storage.
 
 ## Features
 - **User Authentication**: Register and log in to manage personal tasks securely.
@@ -92,4 +92,5 @@ This project is licensed under the **MIT License**.
 
 ### Contact
 For any questions, feel free to reach out at (niteshreddy242005@example.com).
+
 
