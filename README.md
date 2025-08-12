@@ -9,7 +9,7 @@ The **Todo Web ** is a simple yet efficient task management application that all
 - **Edit Todos**: Modify existing tasks.
 - **Delete Todos**: Remove completed or unnecessary tasks.
 - **Persistent Storage**: Uses MongoDB to store user and todo data.
-- **Modern UI**: Built with React and React Router 
+- **Modern UI**: Built with React and Re 
 
 ## Tech Stack
 - **Frontend**: React, React Router, Axios
@@ -92,6 +92,7 @@ This project is licensed under the **MIT License**.
 
 ### Contact
 For any questions, feel free to reach out at (niteshreddy242005@gmail.com).
+
 
 
 
